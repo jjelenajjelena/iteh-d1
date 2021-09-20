@@ -1,0 +1,27 @@
+.h-100vh {
+    height: 100vh !important;
+}
+
+#prijava-form input {
+    border-radius: 20px !important;
+}
+
+#prijava-box {
+    width: 60%;
+    border: 2px black dotted;
+    border-radius: 20px;
+    padding: 15px;
+    background-color: gray;
+}
+
+body{
+    background-color: lightgray;
+}
+
+.table{
+    margin-top: 5%;
+    background-color: gray;
+}
+.table tr:not(:last-child){
+    border-bottom: 1px white solid;
+}
